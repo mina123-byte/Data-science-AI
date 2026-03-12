@@ -1,1 +1,1 @@
-Hello Data science AI
+Hello AI
